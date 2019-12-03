@@ -1,4 +1,4 @@
-let ERC20_contractAddress = '0x924c2afd52875fb0a65674163ac20115343ad39c';  // contract의 주소(SimpleToken)
+let ERC20_contractAddress = '0x924c2afd52875fb0a65674163ac20115343ad39c';
 let ERC20_abi = 
 [
 	{
