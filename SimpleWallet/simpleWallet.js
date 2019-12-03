@@ -305,7 +305,6 @@ let friend_abi = [
 		"type": "function"
 	}
 ];
-
 let simpleWalletContract;
 let simpleWallet;
 let friendContract;
